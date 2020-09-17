@@ -1,2 +1,2 @@
 # Maze-Game
-A simple maze game built using matter.js and canvas
+A Simple Maze Game built using Matter.js and Canas, Have fun :)
